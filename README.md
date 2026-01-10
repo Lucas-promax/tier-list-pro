@@ -1,3 +1,5 @@
+https://lucas-promax.github.io/tier-list-pro/
+
 # Tier List Maker Pro 项目开发文档
 
 ## 1. 项目简介
